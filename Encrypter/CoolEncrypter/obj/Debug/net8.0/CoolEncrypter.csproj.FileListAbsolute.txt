@@ -1,0 +1,14 @@
+C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\bin\Debug\net8.0\CoolEncrypter.exe
+C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\bin\Debug\net8.0\CoolEncrypter.deps.json
+C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\bin\Debug\net8.0\CoolEncrypter.runtimeconfig.json
+C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\bin\Debug\net8.0\CoolEncrypter.dll
+C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\bin\Debug\net8.0\CoolEncrypter.pdb
+C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\obj\Debug\net8.0\CoolEncrypter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\obj\Debug\net8.0\CoolEncrypter.AssemblyInfoInputs.cache
+C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\obj\Debug\net8.0\CoolEncrypter.AssemblyInfo.cs
+C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\obj\Debug\net8.0\CoolEncrypter.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\obj\Debug\net8.0\CoolEncrypter.dll
+C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\obj\Debug\net8.0\refint\CoolEncrypter.dll
+C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\obj\Debug\net8.0\CoolEncrypter.pdb
+C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\obj\Debug\net8.0\CoolEncrypter.genruntimeconfig.cache
+C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\obj\Debug\net8.0\ref\CoolEncrypter.dll
