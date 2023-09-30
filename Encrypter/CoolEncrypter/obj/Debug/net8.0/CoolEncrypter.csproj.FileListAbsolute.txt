@@ -12,3 +12,4 @@ C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\obj\Debug\net8.0\ref
 C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\obj\Debug\net8.0\CoolEncrypter.pdb
 C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\obj\Debug\net8.0\CoolEncrypter.genruntimeconfig.cache
 C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\obj\Debug\net8.0\ref\CoolEncrypter.dll
+C:\Users\thoma\Downloads\Encryption\Encrypter\CoolEncrypter\obj\Debug\net8.0\CoolEncrypter.sourcelink.json
